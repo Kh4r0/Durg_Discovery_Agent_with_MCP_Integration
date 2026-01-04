@@ -1,0 +1,17 @@
+# agent/llm_config.py
+import os
+from dotenv import load_dotenv
+from langchain_groq import ChatGroq
+
+
+def get_llm():
+    api_key = os.getenv("GROQ_API_KEY")
+
+    if not api_key:
+        raise ValueError("GROQ_API_KEY not found in environment variables")
+
+    return ChatGroq(
+        groq_api_key=api_key,
+        model="llama-3.1-8b-instant",
+        temperature=0.2
+    )
